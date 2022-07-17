@@ -1,0 +1,10 @@
+D:\C#\Coffee Management\CoffeeManagement\DTO\bin\Release\DTO.dll
+D:\C#\Coffee Management\CoffeeManagement\DTO\bin\Release\DTO.pdb
+D:\C#\Coffee Management\CoffeeManagement\DTO\obj\Release\DTO.dll
+D:\C#\Coffee Management\CoffeeManagement\DTO\obj\Release\DTO.pdb
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DTO\bin\Release\DTO.dll
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DTO\bin\Release\DTO.pdb
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DTO\obj\Release\DTO.dll
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DTO\obj\Release\DTO.pdb

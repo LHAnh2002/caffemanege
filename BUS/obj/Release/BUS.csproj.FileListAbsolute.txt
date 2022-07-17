@@ -1,0 +1,20 @@
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Release\BUS.dll
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Release\BUS.pdb
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Release\DAO.dll
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Release\DTO.dll
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Release\DAO.pdb
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Release\DTO.pdb
+D:\C#\Coffee Management\CoffeeManagement\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+D:\C#\Coffee Management\CoffeeManagement\BUS\obj\Release\BUS.dll
+D:\C#\Coffee Management\CoffeeManagement\BUS\obj\Release\BUS.pdb
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Release\BUS.dll
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Release\BUS.pdb
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Release\DAO.dll
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Release\DTO.dll
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Release\DAO.pdb
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Release\DTO.pdb
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Release\BUS.csproj.CopyComplete
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Release\BUS.dll
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Release\BUS.pdb

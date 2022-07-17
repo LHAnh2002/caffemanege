@@ -1,0 +1,16 @@
+D:\C#\Coffee Management\CoffeeManagement\DAO\bin\Release\DAO.dll
+D:\C#\Coffee Management\CoffeeManagement\DAO\bin\Release\DAO.pdb
+D:\C#\Coffee Management\CoffeeManagement\DAO\bin\Release\DTO.dll
+D:\C#\Coffee Management\CoffeeManagement\DAO\bin\Release\DTO.pdb
+D:\C#\Coffee Management\CoffeeManagement\DAO\obj\Release\DAO.csprojResolveAssemblyReference.cache
+D:\C#\Coffee Management\CoffeeManagement\DAO\obj\Release\DAO.dll
+D:\C#\Coffee Management\CoffeeManagement\DAO\obj\Release\DAO.pdb
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\bin\Release\DAO.dll
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\bin\Release\DAO.pdb
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\bin\Release\DTO.dll
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\bin\Release\DTO.pdb
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Release\DAO.csproj.AssemblyReference.cache
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Release\DAO.csproj.CopyComplete
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Release\DAO.dll
+D:\SourceCode\C#\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Release\DAO.pdb
